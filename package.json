@@ -1,8 +1,8 @@
 {
   "name": "graphql-type-long",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Enable 52-bit signed integer types for GraphQL",
-  "main": "index.js",
+  "main": "lib/index.js",
   "scripts": {
     "build": "coffee --bare -o lib -c src"
   },
@@ -15,7 +15,6 @@
     "long"
   ],
   "author": "Chad Lieberman",
-  "main": "lib/index.js",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/chadlieberman/graphql-type-long/issues"
