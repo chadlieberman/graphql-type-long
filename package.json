@@ -22,6 +22,6 @@
   },
   "homepage": "https://github.com/chadlieberman/graphql-type-long#readme",
   "dependencies": {
-    "graphql": "^0.9.1"
+    "graphql": "^0.9.1 || ^0.10.0"
   }
 }
