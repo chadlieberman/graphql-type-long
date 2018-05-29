@@ -21,7 +21,7 @@
     "url": "https://github.com/chadlieberman/graphql-type-long/issues"
   },
   "homepage": "https://github.com/chadlieberman/graphql-type-long#readme",
-  "dependencies": {
-    "graphql": "^0.9.1 || ^0.10.0"
+  "peerDependencies": {
+    "graphql": "^0.9.1 || ^0.10.0 || ^0.12.0 || ^0.13.0"
   }
 }
